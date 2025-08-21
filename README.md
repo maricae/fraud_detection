@@ -14,6 +14,8 @@ A base de dados utilizada neste estudo foi coletada pela Universidade Livre de B
 
 A base de dados é composta por 31 colunas, das quais 28 são variáveis numéricas transformadas por Análise de Componentes Principais (PCA).
 
+O csv do projeto você encontra em: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## 🧠 Tecnologias e Bibliotecas Utilizadas:
 
 - **Linguagem**  
